@@ -1,4 +1,4 @@
-# Power BI Dashboard - Sales Dashboard
+**Proje Adı:** Power BI Dashboard - Sales Dashboard
 
 ## Açıklama
 Bu projede, satış veri seti üzerinde bazı hesaplamalar ve görselleştirmeler kullanılarak önemli çıkarımlar yapılması hedeflendi. Projenin temel hedefleri şunlardır:
