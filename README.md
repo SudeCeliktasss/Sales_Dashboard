@@ -1,6 +1,6 @@
-## Power BI Dashboard - Sales Dashboard
+### Power BI Dashboard - Sales Dashboard
 
-## Açıklama
+### Açıklama
 Bu projede, satış veri seti üzerinde bazı hesaplamalar ve görselleştirmeler kullanılarak önemli çıkarımlar yapılması hedeflendi. Projenin temel hedefleri şunlardır:
 
 #### Satış Performansı Analizi
@@ -10,5 +10,5 @@ Bu projede, satış veri seti üzerinde bazı hesaplamalar ve görselleştirmele
 - Yıllara göre brüt kar oranlarını hesaplayarak en karlı dönemleri belirlemek.
 - Yıllara göre maliyetlerde yaşanan değişimleri gözlemlemek.
 
-## İletişim
+### İletişim
 [LinkedIn - Sude Çeliktaş](https://www.linkedin.com/in/sudeceliktas)
